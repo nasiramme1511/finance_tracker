@@ -1,5 +1,14 @@
 # Finance Tracker App 💰
 
+> [!IMPORTANT]
+> **Active Implementation Notice:**
+> This repository contains the preliminary specification and has been superseded by the production-grade, cross-platform mobile application codebase at:
+> 👉 **[nasiramme1511/fintech](https://github.com/nasiramme1511/fintech)**
+>
+> The active application features React Native (Expo), TypeScript, Supabase (PostgreSQL), SQLite, automated bank SMS transaction parsing, and multi-account analytics.
+
+---
+
 A full-stack finance tracker application for managing income and expenses, calculating balances, and organizing financial transactions with a clean and user-friendly interface.
 
 ---
